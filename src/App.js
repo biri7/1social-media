@@ -1,9 +1,15 @@
 import './App.css';
+import Header from "./components/Header/Header";
+import Navbar from "./components/Navbar/Navbar";
+import Content from "./components/Profile/Content"
 
 function App() {
   return (
-    <div>
-      
+    <div className='app-wrapper'>
+      <Header />
+      <Navbar />
+      <Content />   
+    
     </div>
   );
 }
