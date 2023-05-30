@@ -2,7 +2,7 @@ import React from "react";
 import s from './Container.module.css'
 import Header from './../Header/Header'
 import Navbar from './../Navbar/Navbar';
-import Content from './../Profile/Content';
+import Content from '../Content/Content';
 
 
 
