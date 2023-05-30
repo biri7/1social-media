@@ -1,15 +1,15 @@
-import './App.css';
-import Header from "./components/Header/Header";
-import Navbar from "./components/Navbar/Navbar";
-import Content from "./components/Profile/Content"
+import "./App.css";
+
+import Container from "./components/Container/Container";
 
 function App() {
   return (
-    <div className='app-wrapper'>
-      <Header />
-      <Navbar />
-      <Content />   
-    
+    <div>
+      <Container />
+       
+         
+       
+     
     </div>
   );
 }
