@@ -1,6 +1,4 @@
-.app-wrapper{
-background-color: darkgrey;
-
-
+.page {
+  background-color: #181820;
+  height: 100vh;
 }
-
