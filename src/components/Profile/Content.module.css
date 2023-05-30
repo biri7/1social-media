@@ -1,6 +1,15 @@
 .content {
     grid-area: st;
     background-color: white;
+    height: 100vh;
+}
+
+.main_img{
+    display: block;
+    width: 1200px;
+    height: 300px;
+    object-fit: cover;
+
 }
 
 
